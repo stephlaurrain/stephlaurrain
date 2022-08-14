@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @stephlaurrain
 - 👀 I’m interested in ...
-- Teaching
-- HTML / CSS / Javascript / NodeJS / ReactJs
-- Python & Linux fan
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+Teaching
+HTML / CSS / Javascript / NodeJS / ReactJs
+Python & Linux fan
 
 <!---
 stephlaurrain/stephlaurrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
