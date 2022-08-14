@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...
 
 Teaching
+
 HTML / CSS / Javascript / NodeJS / ReactJs
+
 Python & Linux fan
 
 <!---
